@@ -2,7 +2,7 @@
 commons.txt
 
 # Cache already preprocessed files
-.files_cache
+#.files_cache
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

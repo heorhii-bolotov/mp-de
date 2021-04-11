@@ -67,3 +67,14 @@ And check database
 
 ![img_1.png](screens/img_1.png)
 
+Apps DB 
+
+![img.png](screens/img_2.png)
+
+Movies DB 
+
+![img.png](screens/img_3.png)
+
+Songs DB 
+
+![img.png](screens/img_4.png)
