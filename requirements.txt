@@ -1,0 +1,6 @@
+psycopg2-binary
+py4j
+pyspark
+boto3
+aiofiles
+PyYAML
