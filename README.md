@@ -1,3 +1,8 @@
+Dockerhub available  
+```shell
+docker pull beefmilf/macpaw-de_etl:interactive_etl
+```
+
 ## Terminal 1 
 Bring up the database
 ```shell
